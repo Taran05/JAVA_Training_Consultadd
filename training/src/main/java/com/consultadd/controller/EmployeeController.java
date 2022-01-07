@@ -27,15 +27,4 @@ public class EmployeeController {
     public String saveEmployee(@RequestBody Employee employee){
         return employeeService.saveEmployee(employee);
     }
-
-    @PutMapping("/updateemp/{id}")
-    public String updateEmployee(@PathVariable("id") String id, @RequestBody Employee employee){
-        return employeeService.updateEmployee(id, employee);
-    }
-
-    @DeleteMapping("/delemp/{id}")
-    public String deleteEmployee(@PathVariable("id") String id){
-        return employeeService.deleteEmployee(id);
-    }
-
 }
