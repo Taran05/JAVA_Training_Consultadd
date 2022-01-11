@@ -1,2 +1,5 @@
 # JAVA_Training_Consultadd
-This repo contains the tasks for JAVA Training. This branch contains "Task 2".
+This is a JAVA training-period project, creating using Spring Boot.
+
+## Task 2
+* Shift the database from H2 to MySQL
