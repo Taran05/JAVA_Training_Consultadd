@@ -1,2 +1,2 @@
 # JAVA_Training_Consultadd
-This repo contains the tasks for JAVA Training
+This is a JAVA training-period project, creating using Spring Boot.
