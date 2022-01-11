@@ -1,2 +1,5 @@
 # JAVA_Training_Consultadd
-This repo contains the tasks for JAVA Training. This branch contains "Task 1".
+
+##Task 1
+
+<ul> Create PUT and DELETE API's
