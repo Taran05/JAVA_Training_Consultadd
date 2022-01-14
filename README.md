@@ -2,8 +2,14 @@
 
 This is a JAVA training-period project, creating using Spring Boot.
 
-## Task 3
+## Task 5
 
-* Integrate Spring Security for user using Sign In and Sign Up Processes.
-* Add Test-cases for EmployeeService methods.
+* To implement config using consul.
+* To connect 2 different applications using consul
+
+
+### Links
+
+* https://www.baeldung.com/spring-cloud-consul
+* https://attacomsian.com/blog/http-requests-resttemplate-spring-boot
 
