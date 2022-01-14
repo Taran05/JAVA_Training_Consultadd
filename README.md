@@ -7,3 +7,8 @@ This is a JAVA training-period project, creating using Spring Boot.
 * Integrate Spring Security for user using Sign In and Sign Up Processes.
 * Add Test-cases for EmployeeService methods.
 
+### Links
+
+* https://www.bezkoder.com/spring-boot-jwt-authentication/
+
+
